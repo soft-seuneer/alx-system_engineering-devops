@@ -1,3 +1,2 @@
-#1/bin/bash
-ls
-a script that prints the effective username of the current user
+#!/bin/bash
+ls -l /1-who_am_i
